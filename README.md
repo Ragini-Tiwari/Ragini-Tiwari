@@ -1,6 +1,4 @@
 ### Hi there 👋
-Lets Connect !!
-
 
 I'm Ragini Tiwari, and I recently completed my post-graduation in MCA. I am passionate about software development and am currently engaged in several exciting projects.
 My goal is to secure a role as a software developer where I can leverage my diverse skill set to contribute to innovative solutions.
