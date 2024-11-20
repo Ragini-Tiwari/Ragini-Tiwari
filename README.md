@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tiwariragini1054@gmail.com**
 
-- ⚡ Fun fact **I approach coding like crafting the perfect Momo 🥟—every line of code needs the right filling (logic) and wrapping (syntax). Also, I love debugging challenges—it’s like hitting the high note 🎤 in a song! 🎶**
+- ⚡ Fun fact  :: **I approach coding like crafting the perfect Momo 🥟—every line of code needs the right filling (logic) and wrapping (syntax). Also, I love debugging challenges—it’s like hitting the high note 🎤 in a song! 🎶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
