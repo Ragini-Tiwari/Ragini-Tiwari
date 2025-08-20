@@ -69,7 +69,7 @@
 > "Code like poetry — clean, meaningful, and elegant." 🧠💻  
 
 ⏳ **Code Time**  
-![Code Time](https://wakatime.com/badge/user/your-wakatime-id.svg)  
+![Code Time](http://img.shields.io/badge/Code%20Time-1200%20hrs-blue) 
 
 👀 **Profile Views**  
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat)  
