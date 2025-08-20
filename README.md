@@ -68,12 +68,20 @@
 
 > "Code like poetry — clean, meaningful, and elegant." 🧠💻  
 
-- ⏳ **Code Time**  
-![Code Time](http://img.shields.io/badge/Code%20Time-1200%20hrs-blue)
+⏳ **Code Time**  
+![Code Time](https://wakatime.com/badge/user/your-wakatime-id.svg)  
 
-- 👀 **Profile Views**  
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=blue&style=flat)
+👀 **Profile Views**  
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat)  
 
-- 💻 **Lines of Code**  
-![Lines of code](https://img.shields.io/badge/Lines%20of%20code-1M%2B-brightgreen)
+💻 **Lines of Code**  
+![Lines of code](https://tokei.rs/b1/github/YourGitHubUsername/YourRepoName?category=code)  
+
+---
+
+### 📈 GitHub Analytics  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+
 
