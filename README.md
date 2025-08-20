@@ -72,10 +72,10 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-1200%20hrs-blue) 
 
 👀 **Profile Views**  
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=blue&style=flat)
 
-💻 **Lines of Code**  
-![Lines of code](https://tokei.rs/b1/github/YourGitHubUsername/YourRepoName?category=code)  
+- 💻 **Lines of Code**  
+![Lines of code](https://img.shields.io/badge/Lines%20of%20code-1M%2B-brightgreen)
 
 ---
 
