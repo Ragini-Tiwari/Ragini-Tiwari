@@ -74,7 +74,7 @@
 👀 **Profile Views**  
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=blue&style=flat)
 
-- 💻 **Lines of Code**  
+💻 **Lines of Code**  
 ![Lines of code](https://img.shields.io/badge/Lines%20of%20code-1M%2B-brightgreen)
 
 ---
